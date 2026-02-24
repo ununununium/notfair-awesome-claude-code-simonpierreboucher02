@@ -1,0 +1,70 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.development
+.env.staging
+.env.production
+.env.*
+!.env.example
+
+# API keys and credentials
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+credentials.json
+secrets.json
+service-account.json
+*-credentials.json
+*-secrets.json
+
+# Claude Code local settings (may contain API keys)
+.claude/settings.local.json
+
+# Anthropic API keys
+.anthropic
+anthropic_api_key*
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+out/
+*.tgz
+
+# Temporary files
+tmp/
+temp/
+*.tmp
