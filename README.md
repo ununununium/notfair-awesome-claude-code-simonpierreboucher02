@@ -271,6 +271,7 @@ claude
 | 🌐 **MCP.so** | [mcp.so](https://mcp.so/) | Searchable directory of MCP servers |
 | 🌐 **MCPServers.org** | [mcpservers.org](https://mcpservers.org/) | Web directory synced with punkpeye/awesome-mcp-servers |
 | 🌐 **MCPcat** | [mcpcat.io](https://mcpcat.io/) | Guides to the best MCP servers for Claude Code |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ---
 
